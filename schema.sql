@@ -56,3 +56,8 @@ CREATE TABLE Titles (
 
 -- creating a select statement
 SELECT * FROM departments;
+SELECT * FROM dept_manager;
+SELECT * FROM Dept_Emp;
+SELECT * FROM employees;
+SELECT * FROM salaries;
+SELECT * FROM Titles;
