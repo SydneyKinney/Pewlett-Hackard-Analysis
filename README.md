@@ -4,6 +4,7 @@
 Pewlett Hackard is a large organization that has noticed a potential trend of employees retiring. The purpose of this project is to determined the number of retiring employees per title, and identifed employees who are eligible to participate in a mentorship program. This will help prepare Bobby’s manager for the “silver tsunami” as many current employees reach retirement age.
 
 ## Results
+### Major Points
 - There are currently 300,024 employees
 - A total of 90,398 employees will be retiring in the future. (Below is a breakdown showing how many employees are retiring per title)
 
